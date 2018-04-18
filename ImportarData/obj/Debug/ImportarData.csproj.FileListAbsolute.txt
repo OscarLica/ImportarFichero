@@ -1,0 +1,187 @@
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\ApplicationInsights.config
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\csc.exe
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\csc.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\csc.rsp
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\csi.exe
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\csi.rsp
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\System.AppContext.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\System.Collections.Immutable.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\System.IO.FileSystem.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\vbc.exe
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\vbc.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\vbc.rsp
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\VBCSCompiler.exe
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\roslyn\VBCSCompiler.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\ImportarData.dll.config
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\ImportarData.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\ImportarData.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Antlr3.Runtime.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\EntityFramework.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\EntityFramework.SqlServer.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.Web.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.WindowsServer.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.ApplicationInsights.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.Web.Infrastructure.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Newtonsoft.Json.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Net.Http.Formatting.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Helpers.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Http.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Http.WebHost.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Mvc.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Optimization.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Razor.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.WebPages.Deployment.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.WebPages.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.WebPages.Razor.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\WebGrease.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\EntityFramework.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\EntityFramework.SqlServer.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Helpers.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Mvc.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Optimization.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Razor.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.WebPages.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.WebPages.Deployment.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.WebPages.Razor.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Antlr3.Runtime.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Newtonsoft.Json.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Net.Http.Formatting.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Http.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\System.Web.Http.WebHost.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.ApplicationInsights.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.WindowsServer.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\Microsoft.AI.Web.xml
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Web.Helpers.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Web.Mvc.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Web.Optimization.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Web.Razor.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Web.WebPages.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Web.Http.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\obj\Debug\ImportarData.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\obj\Debug\ImportarData.dll
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\obj\Debug\ImportarData.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\obj\Debug\ImportarData.Migrations.OJ_TablaEncargos.resources
+c:\users\usuario\documents\visual studio 2017\Projects\ImportarData\ImportarData\obj\Debug\ImportarData.csproj.GenerateResource.Cache
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\ApplicationInsights.config
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\csc.exe
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\csc.exe.config
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\csc.rsp
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\csi.exe
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\csi.rsp
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\vbc.exe
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\vbc.rsp
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\ImportarData.dll.config
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\ImportarData.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\ImportarData.pdb
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Antlr3.Runtime.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\EntityFramework.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\EntityFramework.SqlServer.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.Web.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.ApplicationInsights.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Newtonsoft.Json.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Net.Http.Formatting.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Helpers.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Http.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Http.WebHost.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Mvc.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Optimization.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Razor.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.WebPages.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.WebPages.Razor.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\WebGrease.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\EntityFramework.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\EntityFramework.SqlServer.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Helpers.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Mvc.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Optimization.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Razor.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.WebPages.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.WebPages.Razor.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Antlr3.Runtime.pdb
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Newtonsoft.Json.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Net.Http.Formatting.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Http.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\System.Web.Http.WebHost.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.ApplicationInsights.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\Microsoft.AI.Web.xml
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Web.Helpers.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Web.Mvc.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Web.Optimization.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Web.Razor.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Web.WebPages.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Web.Http.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\obj\Debug\ImportarData.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\obj\Debug\ImportarData.Migrations.Intialize.resources
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\obj\Debug\ImportarData.csproj.GenerateResource.Cache
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\obj\Debug\ImportarData.dll
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\obj\Debug\ImportarData.pdb
+C:\Users\usuario\Source\Repos\ImportData\ImportarData\obj\Debug\ImportarData.Migrations.CambioTipoDatoFecha.resources

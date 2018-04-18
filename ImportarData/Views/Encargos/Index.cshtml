@@ -1,0 +1,125 @@
+﻿@model IEnumerable<ImportarData.Models.Encargos>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<div class="container">
+    @using (Html.BeginForm("Post", "Encargos", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-info">
+                    <div class="panel-heading">Importar Data</div>
+                    <div class="panel-body">
+                        <div class="col-md-4">
+                            <input type="file" name="file" id="file" />
+                        </div>
+                        <div class="col-md-4">
+                            <input type="number" value="2" min="2" name="fComienzo" />
+                        </div>
+                        <div class="col-md-4"><button type="submit" class="btn btn-success">Procesar Fichero</button></div>
+                    </div>
+                </div>
+            </div>
+       </div>
+       <div class="row">
+           <div class="label label-info">@ViewBag.mensaje</div>
+       </div>
+    }
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-primary">
+                <div class="panel-heading"> Data</div>
+                <div class="panel-body">
+                    <table class="table">
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.albaran)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.destinatario)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.direccion)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.poblacion)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.cp)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.provincia)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.telefono)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.observacviones)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.fecha)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.registroBuenos)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.registrosMalos)
+                            </th>
+                            <th></th>
+                        </tr>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.albaran)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.destinatario)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.direccion)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.poblacion)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.cp)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.provincia)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.telefono)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.observacviones)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.fecha)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.registroBuenos)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.registrosMalos)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                                    @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                                    @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                                </td>
+                            </tr>
+                        }
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
